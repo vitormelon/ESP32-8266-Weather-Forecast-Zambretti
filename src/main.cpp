@@ -16,7 +16,6 @@
 
 #define PRESSURE_READINGS_LENGH 24
 
-
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 Adafruit_BME280 bme;
